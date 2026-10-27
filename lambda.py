@@ -37,7 +37,7 @@ ADMIN_EMAIL = "taankjeevesh@gmail.com"
 # ================================
 JIRA_EMAIL = "taankjeevesh@gmail.com"
 
-JIRA_API_TOKEN = "ATATT3xFfGF02yKZQXfvPHNYB1QosJLrJnFU5NAv94hvMNpeY1PuQpLDqPXC6g30xAD7jdWUzLeV1z3C6bfK7LnA91NPXUWKsE4OKg_nJIyh_VDxUM0tCz4ilKVtXldTVwruU27uG83OMDDIGfGXN9mEErSvxs764kYeFW5xNPHJ8_G33bI4BMk=53C97BD2"
+JIRA_API_TOKEN = "ATATT3xFfGF0bDGiDIDprPLawlTru8krhICJGo6vsTh6pgqwJMV5ihhL8ejOjHJQq3o_KUTeoB_huuqXC4o5b628_RkjsCW3cx9Vjj690C4C_qz3Rplu-nfUO7sPyt_uVSWjwDf6cA1F24emPc8XbA3AMnUQjJvN28ZRkjeT6bU2MZ4gMNKnYWY=63BF5523"
 
 JIRA_DOMAIN = "jeevesh-taank.atlassian.net"
 
